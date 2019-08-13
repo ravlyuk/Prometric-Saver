@@ -1,0 +1,19 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.19t|$
+Arch|x86_64-msvc|$
+
+[PLUGINS]
+
+[INVALID]
+C:\Program Files\Microsoft Office\root\Office16\NPSPWRAP.DLL|$
+1528698123498|$
+C:\Program Files\Java\jre1.8.0_144\bin\dtplugin\npdeployJava1.dll|$
+1507378969351|$
+C:\Program Files\Java\jre1.8.0_144\bin\plugin2\npjp2.dll|$
+1507378970234|$
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect64.dll|$
+1505868170000|$
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect32.dll|$
+1505868170000|$
